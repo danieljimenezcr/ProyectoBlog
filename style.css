@@ -18,6 +18,10 @@ body {
      width: 400px;
      margin: 0 auto;
  }
+ .section-text {
+     text-align: center;
+     color: #222;
+ }
  section article {
      transition: all 0.3s ease;
      background-color: white;
